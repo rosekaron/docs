@@ -107,8 +107,8 @@
       "institution": "University of South Australia",
       "area": "MBA (undergraduate)",
       "studyType": "",
-      "startDate": "2009",
-      "endDate": "2012",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
       "gpa": "",
       "courses": []
     },
@@ -116,8 +116,8 @@
       "institution": "University of the Philippines Los Banos",
       "area": "Communication Arts",
       "studyType": "",
-      "startDate": "1997",
-      "endDate": "2000",
+      "startDate": "1997-01-01",
+      "endDate": "2000-01-01",
       "gpa": "",
       "courses": []
     }
