@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Rose Karon",
-    "label": "Technical Project Manager / Business Analyst ",
+    "label": "Technical Project Manager / Business Analyst",
     "picture": "",
     "email": "rose@karon.se",
-    "phone": "+34 603 651 949 ",
+    "phone": "+34 603 651 949",
     "website": "",
-    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering. ",
+    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering.",
     "location": {
-      "address": "Lövstastigen 16 ",
+      "address": "Lövstastigen 16",
       "postalCode": "14132",
       "city": "Stockholm",
       "countryCode": "Sweden",
@@ -18,7 +18,7 @@
       {
         "network": "Instagram",
         "username": "rose.karon",
-        "url": "https://www.instagram.com/rose.karon/ "
+        "url": "https://www.instagram.com/rose.karon/"
       }
     ]
   },
@@ -29,9 +29,9 @@
       "website": "http://www.ef.com/",
       "startDate": "2012-02-01",
       "endDate": "2015-12-01",
-      "summary": "Founded in 1965, EF is one of the largest educational institions in the world with over 40,000 employees distributed in 112 different countries. At EF, I was given the unique opportunity to pick and choose my own projects because I am good at immersing myself into projects without requiring too much ramp up and training. During my three and a half years tenure, I was able to help five different teams, involving myself into various projects and assuming different roles. ",
+      "summary": "Founded in 1965, EF is one of the largest educational institions in the world with over 40,000 employees distributed in 112 different countries. At EF, I was given the unique opportunity to pick and choose my own projects because I am good at immersing myself into projects without requiring too much ramp up and training. During my three and a half years tenure, I was able to help five different teams, involving myself into various projects and assuming different roles.",
       "highlights": [
-        "Led a team of engineers in launching Efekta 13 (EF's language learning software) to millions of users all over the world. ",
+        "Led a team of engineers in launching Efekta 13 (EF's language learning software) to millions of users all over the world.",
         "Led a team of engineers in building a CMS platform using AEM (Adobe Experience Manager).",
         "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack.",
         "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council, a meeting attended by senior management that aims to provide updates on all projects in the product development pipeline.",
@@ -39,32 +39,32 @@
       ]
     },
     {
-      "company": "MyCube .com",
-      "position": "Project Manager ",
+      "company": "MyCube.com",
+      "position": "Project Manager",
       "website": "",
       "startDate": "2009-05-01",
       "endDate": "2012-01-15",
-      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content. At MyCube, I was hired to deliver the mobile platform but ended up getting involved in the delivery of their web platform as well as starting the company's Member Service division-- tasks that I happily took on. ",
+      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content. At MyCube, I was hired to deliver the mobile platform but ended up getting involved in the delivery of their web platform as well as starting the company's Member Service division-- tasks that I happily took on.",
       "highlights": [
-        "Collaborated with a user experience consultant into conceptualizing and reaching sign off on the initial design of the mobile version of the Mycube platform. ",
-        "Documented and delivered the initial version of the Mycube web platform. ",
+        "Collaborated with a user experience consultant into conceptualizing and reaching sign off on the initial design of the mobile version of the Mycube platform.",
+        "Documented and delivered the initial version of the Mycube web platform.",
         "Documented the initial implementation of what would have been the Mycube member services back office. "
       ]
     },
     {
-      "company": "Laron Pte. Ltd., ",
-      "position": "Project Manager ",
+      "company": "Laron Pte. Ltd.",
+      "position": "Project Manager",
       "website": "",
       "startDate": "2009-01-01",
       "endDate": "2009-05-30",
-      "summary": "Laron Pte Ltd., is an expert IT consultant company specialized in on-line gaming. After five months of working for Laron, being a contractor for hire at Mycube, Mycube decided to buy Laron and it's entire team. ",
+      "summary": "Laron Pte Ltd., is an expert IT consultant company specialized in on-line gaming. After five months of working for Laron, being a contractor for hire at Mycube, Mycube decided to buy Laron and it's entire team.",
       "highlights": [
-        "Implemented documentation standards. ",
+        "Implemented documentation standards.",
         "Headed cross functional teams while managing projects for an IT consulting company that specialized in online gaming. "
       ]
     },
     {
-      "company": "Strategem Technologies Pte. Ltd.,",
+      "company": "Strategem Technologies Pte. Ltd.",
       "position": "Business Systems Analyst",
       "website": "",
       "startDate": "2006-04-01",
@@ -79,18 +79,18 @@
     {
       "company": "Bayview Technologies Inc",
       "position": "Online Marketing Manager",
-      "website": "http://www.bayviewtechnology.com/ ",
+      "website": "http://www.bayviewtechnology.com/",
       "startDate": "2005-04-01",
       "endDate": "2006-03-01",
       "summary": "Bayview Technologies Inc. is an IT-enabled business process outsourcing company that provides a variety of customer support, back office and information technology support services to foreign companies.  Bayview is part of a group of companies that was established in 2002 and maintains offices in Hong Kong, Taiwan, Gibraltar and has regional presence throughout Asia and Europe.",
       "highlights": [
-        "Assisted and led the launch of various casinos in the Philippines that made use of Playtech's casino software. ",
+        "Assisted and led the launch of various casinos in the Philippines that made use of Playtech's casino software.",
         "Acted as an account manager for  Playtech licensees in Asia"
       ]
     },
     {
-      "company": "Anxa ",
-      "position": "Executive Assistant to the CEO ",
+      "company": "Anxa",
+      "position": "Executive Assistant to the CEO",
       "website": "www.anxa.com",
       "startDate": "2001-09-01",
       "endDate": "2005-03-01",
@@ -166,15 +166,15 @@
   ],
   "references": [
     {
-      "name": "Rasmus Rasmusson, VP of Marketing ",
+      "name": "Rasmus Rasmusson, VP of Marketing",
       "reference": "Rose was a very well liked project manager, with great attention to detail, and a lot of energy. She does boost morale and also a good deal of knowledge. She is also very good at communication, especially important in the distributed organization that EF is, with offices all over the world."
     },
     {
-      "name": "Tristan Guo, Technical Lead ",
+      "name": "Tristan Guo, Technical Lead",
       "reference": "Rose is the best Technical Project Manager I have ever worked with. It was especially impressive when we were working on The New Content Rollout project. The project in my mind is the most complicated one I have ever done on EF Labs, the requirement were so complicated and so many uncertain points when we started. While Rose has got a very good insight of all the potential risks in the very beginning, She helped to clarify every grey areas with both product owners and technical leads, and made everything clear enough for development. Documents were well written, coordinates were well communicated, and issues were well tracked. And finally, under big pressure, we managed to delivered the project ahead of time.  Rose is smart, and optimistic, she is a person that can influence every people around in a positive way to a positive direction, it is a lot of fun working with her, no matter how hard the things we are working on."
     },
     {
-      "name": "Brian McKay, VP of Product Development ",
+      "name": "Brian McKay, VP of Product Development",
       "reference": "Rose played a critical role in a major product roll out for EF. During this time she worked across teams, identified risks, solved a range of challenges to deliver a flawless release of a very complex project that had a direct impact on the business. Rose provided leadership and inspiration to the team, helping everyone to step up and deliver beyond expectations. I have only the highest praise for the work she has done as a project manager and leader."
     },
     {
