@@ -6,7 +6,7 @@
     "email": "rose@karon.se",
     "phone": "+34 603 651 949",
     "website": "",
-    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering.",
+    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering.   I am currently a permanent resident of Sweden but I am willing to relocate within Europe for a good opportunity.",
     "location": {
       "address": "Lövstastigen 16",
       "postalCode": "14132",
@@ -14,13 +14,7 @@
       "countryCode": "Sweden",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Instagram",
-        "username": "rose.karon",
-        "url": "https://www.instagram.com/rose.karon/"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -29,22 +23,22 @@
       "website": "http://www.ef.com/",
       "startDate": "2012-02-01",
       "endDate": "2015-12-01",
-      "summary": "Founded in 1965, EF is one of the largest educational institions in the world with over 40,000 employees distributed in 112 different countries. At EF, I was given the unique opportunity to pick and choose my own projects because I am good at immersing myself into projects without requiring too much ramp up and training. During my three and a half years tenure, I was able to help five different teams, involving myself into various projects and assuming different roles.",
+      "summary": "EF is one of the largest educational institions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems.   At EF, I was given the unique opportunity to pick and choose my own projects because I am good at immersing myself into projects without requiring too much ramp up and training. During my three and a half years tenure, I was able to help five different teams, involving myself into various projects and assuming different roles.",
       "highlights": [
-        "Led a team of engineers in launching Efekta 13 (EF's language learning software) to millions of users all over the world.",
-        "Led a team of engineers in building a CMS platform using AEM (Adobe Experience Manager).",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack.",
-        "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council, a meeting attended by senior management that aims to provide updates on all projects in the product development pipeline.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF's Kids and Teens division. "
+        "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
+        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dymanic content on the web and on mobile. The challenge of this project was that AEM is commonly used for delivering static content only and we did not have the budget to pay for licenses that can do the work that is needed to be done so, we tried to extend the use of an existing product that we already have the license for.",
+        "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack. When I joined EF Kids and Teens, I noticed that we get a lot of live bugs that we cant fix because we couldnt figure out the root cause (CDN provider, our own CDN, physical school infra structure to name a few). In order to solve this, we invested on diagnostic tools that helped our product support staff proactively monitor the health of our physical schools.",
+        "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council (council). Prior to setting up the council, our stakeholders complained about the lack of transparency for ongoing projects. The challenge was to ensure that the meeting is efficient as its participants are among the top decision makers of the company. It was also necessary that the decisions made does not compromise our commitment to our users so academic and product representatives must be present. After the meetings, key decisions must then be communicated to different departments. What I started set the stage for a better working relationship between us and our stakeholders and I am sure that the practice we started is still being adopted (slightly tweaked) today.",
+        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens division. The adoption of OKRs in EF started in EF Learning Labs. Upper management had the ambition of using it company-wide but the challenge was the staff had a lot of questions. The only reference material we had was a video of Rick Klau explaining how it worked for Google. In order to address this, as then Head of PMO for EF, I held knowledge training sessions for different teams. I used Google and Quora and every article I could find on the internet about OKRs. I'd hold one on one Q&A sessions with the SVP of Product so as I can form a base FAQ of our versions of OKRs. Each time a staff would ask questions I dont have answers to, I'd raise it to upper management. I also highlighted the importance of a having a quarterly all hands meeting where we celebrate our OKR scores as a company. "
       ]
     },
     {
-      "company": "MyCube.com",
+      "company": "MyCube",
       "position": "Project Manager",
       "website": "",
       "startDate": "2009-05-01",
       "endDate": "2012-01-15",
-      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content. At MyCube, I was hired to deliver the mobile platform but ended up getting involved in the delivery of their web platform as well as starting the company's Member Service division-- tasks that I happily took on.",
+      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content. MyCube was started by Swedish entrepreneur Johan Stael von Holstein. At MyCube, I was instrumental for delivering the MVP version of the product on web. After this, I transitioned to become the mobile product manager. I worked with a UX design consultant and together, we delivered the signed off initial wireframes of what was meant to be the mobile version. Unfortunately, the company faced challenges in getting funding so the mobile project was de-prioritized. I proceeded to work on building the initial design for the MVP version of a member service back office before I decided to quit the company to move to Shanghai.",
       "highlights": [
         "Collaborated with a user experience consultant into conceptualizing and reaching sign off on the initial design of the mobile version of the Mycube platform.",
         "Documented and delivered the initial version of the Mycube web platform.",
@@ -91,7 +85,7 @@
     {
       "company": "Anxa",
       "position": "Executive Assistant to the CEO",
-      "website": "www.anxa.com",
+      "website": "http://www.anxa.com",
       "startDate": "2001-09-01",
       "endDate": "2005-03-01",
       "summary": "",
