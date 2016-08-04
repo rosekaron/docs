@@ -23,13 +23,13 @@
       "website": "http://www.ef.com/",
       "startDate": "2012-02-01",
       "endDate": "2015-12-01",
-      "summary": "EF is one of the largest educational institions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems.   At EF, I was given the unique opportunity to pick and choose my own projects because I am good at immersing myself into projects without requiring too much ramp up and training. During my three and a half years tenure, I was able to help five different teams, involving myself into various projects and assuming different roles.",
+      "summary": "EF is one of the largest educational institions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky with the unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams to success.",
       "highlights": [
         "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
-        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dymanic content on the web and on mobile. The challenge of this project was that AEM is commonly used for delivering static content only and we did not have the budget to pay for licenses that can do the work that is needed to be done so, we tried to extend the use of an existing product that we already have the license for.",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack. When I joined EF Kids and Teens, I noticed that we get a lot of live bugs that we cant fix because we couldnt figure out the root cause (CDN provider, our own CDN, physical school infra structure to name a few). In order to solve this, we invested on diagnostic tools that helped our product support staff proactively monitor the health of our physical schools.",
-        "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council (council). Prior to setting up the council, our stakeholders complained about the lack of transparency for ongoing projects. The challenge was to ensure that the meeting is efficient as its participants are among the top decision makers of the company. It was also necessary that the decisions made does not compromise our commitment to our users so academic and product representatives must be present. After the meetings, key decisions must then be communicated to different departments. What I started set the stage for a better working relationship between us and our stakeholders and I am sure that the practice we started is still being adopted (slightly tweaked) today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens division. The adoption of OKRs in EF started in EF Learning Labs. Upper management had the ambition of using it company-wide but the challenge was the staff had a lot of questions. The only reference material we had was a video of Rick Klau explaining how it worked for Google. In order to address this, as then Head of PMO for EF, I held knowledge training sessions for different teams. I used Google and Quora and every article I could find on the internet about OKRs. I'd hold one on one Q&A sessions with the SVP of Product so as I can form a base FAQ of our versions of OKRs. Each time a staff would ask questions I dont have answers to, I'd raise it to upper management. I also highlighted the importance of a having a quarterly all hands meeting where we celebrate our OKR scores as a company. "
+        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dymanic content on the web and on mobile. AEM is commonly used for delivering static content only but we extend the use of an existing product resulting in cost savings and reusing knowledge in existing systems.",
+        "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack. Joining EF Kids and Teens, A lot of reported bugs related to external systems (CDN provider, our own CDN, physical school infra structure to name a few) that lacked monitoring. To adress this, we invested on tools that helped our product support staff act proactively and monitor the health of our physical schools.",
+        "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. Prior to setting up the council, our stakeholders wanted to address transparency in ongoing projects. The challenge was to ensure that the meeting stayed efficient as its participants are among the top decision makers of the company. It was also necessary that the decisions stayed true to our academic and product commitments. What I started set the stage for a better working relationship between us and our stakeholders and the program is still being actively adopted across the company today.",
+        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens division. Upper management had the ambition of company-wide implemnentation but the only reference material we had was a video of Rick Klau explaining how it worked for Google. As then Head of PMO for EF, I compiled reference training material from Google and Quora and every article I could find on the internet about OKRs. I'd then hold 1 on 1 Q&A sessions with the SVP of Product so as I can form a base FAQ of our version of OKRs. Each time a staff would raise questions not covered in the FAQ, I'd raise it to upper management and get an answer included in a new revision. I also highlighted the importance of a having a quarterly all hands meeting where we celebrate our OKR scores as a company."
       ]
     },
     {
@@ -38,9 +38,9 @@
       "website": "",
       "startDate": "2009-05-01",
       "endDate": "2012-01-15",
-      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content. MyCube was started by Swedish entrepreneur Johan Stael von Holstein. At MyCube, I was instrumental for delivering the MVP version of the product on web. After this, I transitioned to become the mobile product manager. I worked with a UX design consultant and together, we delivered the signed off initial wireframes of what was meant to be the mobile version. Unfortunately, the company faced challenges in getting funding so the mobile project was de-prioritized. I proceeded to work on building the initial design for the MVP version of a member service back office before I decided to quit the company to move to Shanghai.",
+      "summary": "MyCube is a digital life management tool for exchanging, sharing and selling content founded by Swedish entrepreneur Johan Stael von Holstein. At MyCube, I was instrumental for delivering the MVP version of the product on web and after launch I transitioned to mobile product manager. Collaborating with a UX design consultant we delivered the initial signed off wireframes of the mobile product. I proceeded to work on the initial design for the MVP of a member service back office before I decided to move on to Shanghai.",
       "highlights": [
-        "Collaborated with a user experience consultant into conceptualizing and reaching sign off on the initial design of the mobile version of the Mycube platform.",
+        "Collaborated with a user experience consultant into conceptualizing and reaching sign off on the initial design of the MyCube mobile platform.",
         "Documented and delivered the initial version of the Mycube web platform.",
         "Documented the initial implementation of what would have been the Mycube member services back office. "
       ]
@@ -76,10 +76,10 @@
       "website": "http://www.bayviewtechnology.com/",
       "startDate": "2005-04-01",
       "endDate": "2006-03-01",
-      "summary": "Bayview Technologies Inc. is an IT-enabled business process outsourcing company that provides a variety of customer support, back office and information technology support services to foreign companies.  Bayview is part of a group of companies that was established in 2002 and maintains offices in Hong Kong, Taiwan, Gibraltar and has regional presence throughout Asia and Europe.",
+      "summary": "Bayview Technologies Inc. is an business process outsourcing company that provides customer support, back office and information technology support services to foreign companies. Bayview was established in 2002 and maintains offices in Hong Kong, Taiwan, Gibraltar and has regional presence throughout Asia and Europe.",
       "highlights": [
         "Assisted and led the launch of various casinos in the Philippines that made use of Playtech's casino software.",
-        "Acted as an account manager for  Playtech licensees in Asia"
+        "Acted as an account manager for Playtech licensees in Asia"
       ]
     },
     {
@@ -90,8 +90,8 @@
       "endDate": "2005-03-01",
       "summary": "",
       "highlights": [
-        "Worked with the CEO and was heavily involved in the launching of Anxa in Australia, USA and China.",
-        "Heavily involved in the recruitment of  30+ staff for various positions ranging from web designers, marketing specialists, business development manager, IT Managers and HRD Manager."
+        "Worked with the CEO and was deeply involved in the launching of Anxa in Australia, USA and China.",
+        "Heavily involved in the recruitment of 30+ staff for various positions ranging from web designers, marketing specialists, business development manager, IT managers and HRD manager."
       ]
     }
   ],
@@ -123,13 +123,10 @@
       "name": "",
       "level": "",
       "keywords": [
-        "requirements gathering",
-        "requirements authoring",
-        "agile methodologies",
-        "risk assessment",
+        "requirements gathering and authoring",
         "impact analysis",
-        "cross team collaboration",
-        "cross team leadership"
+        "agile methodologies",
+        "cross team leadership and collaboration"
       ]
     },
     {
@@ -149,14 +146,6 @@
     }
   ],
   "interests": [
-    {
-      "name": "",
-      "keywords": [
-        "Current events",
-        "Culture",
-        "Travel "
-      ]
-    }
   ],
   "references": [
     {
@@ -164,12 +153,12 @@
       "reference": "Rose was a very well liked project manager, with great attention to detail, and a lot of energy. She does boost morale and also a good deal of knowledge. She is also very good at communication, especially important in the distributed organization that EF is, with offices all over the world."
     },
     {
-      "name": "Tristan Guo, Technical Lead",
-      "reference": "Rose is the best Technical Project Manager I have ever worked with. It was especially impressive when we were working on The New Content Rollout project. The project in my mind is the most complicated one I have ever done on EF Labs, the requirement were so complicated and so many uncertain points when we started. While Rose has got a very good insight of all the potential risks in the very beginning, She helped to clarify every grey areas with both product owners and technical leads, and made everything clear enough for development. Documents were well written, coordinates were well communicated, and issues were well tracked. And finally, under big pressure, we managed to delivered the project ahead of time.  Rose is smart, and optimistic, she is a person that can influence every people around in a positive way to a positive direction, it is a lot of fun working with her, no matter how hard the things we are working on."
-    },
-    {
       "name": "Brian McKay, VP of Product Development",
       "reference": "Rose played a critical role in a major product roll out for EF. During this time she worked across teams, identified risks, solved a range of challenges to deliver a flawless release of a very complex project that had a direct impact on the business. Rose provided leadership and inspiration to the team, helping everyone to step up and deliver beyond expectations. I have only the highest praise for the work she has done as a project manager and leader."
+    },
+    {
+      "name": "Tristan Guo, Technical Lead",
+      "reference": "Rose is the best Technical Project Manager I have ever worked with. It was especially impressive when we were working on The New Content Rollout project. The project in my mind is the most complicated one I have ever done on EF Labs, the requirement were so complicated and so many uncertain points when we started. While Rose has got a very good insight of all the potential risks in the very beginning, She helped to clarify every grey areas with both product owners and technical leads, and made everything clear enough for development. Documents were well written, coordinates were well communicated, and issues were well tracked. And finally, under big pressure, we managed to delivered the project ahead of time.  Rose is smart, and optimistic, she is a person that can influence every people around in a positive way to a positive direction, it is a lot of fun working with her, no matter how hard the things we are working on."
     },
     {
       "name": "Raul Costa, Product and CRM Manager",
