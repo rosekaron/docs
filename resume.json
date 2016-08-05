@@ -6,7 +6,7 @@
     "email": "rose@karon.se",
     "phone": "+34 603 651 949",
     "website": "",
-    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering.   I am currently a permanent resident of Sweden but I am willing to relocate within Europe for a good opportunity.",
+    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious which helps me to effortlessly learn new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomend in the logical world of engineering. I am currently a permanent resident of Sweden but I am willing to relocate anywhere in the world for a good opportunity.",
     "location": {
       "address": "Lövstastigen 16",
       "postalCode": "14132",
@@ -29,12 +29,12 @@
         "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dymanic content on the web and on mobile. AEM is commonly used for delivering static content only but we extend the use of an existing product resulting in cost savings and reusing knowledge in existing systems.",
         "Initiated and led a team of engineers into building monitoring tools using the ELK (elastic search, logstash and kibana) stack. Joining EF Kids and Teens, A lot of reported bugs related to external systems (CDN provider, our own CDN, physical school infra structure to name a few) that lacked monitoring. To adress this, we invested on tools that helped our product support staff act proactively and monitor the health of our physical schools.",
         "Collaboated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. Prior to setting up the council, our stakeholders wanted to address transparency in ongoing projects. The challenge was to ensure that the meeting stayed efficient as its participants are among the top decision makers of the company. It was also necessary that the decisions stayed true to our academic and product commitments. What I started set the stage for a better working relationship between us and our stakeholders and the program is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens division. Upper management had the ambition of company-wide implemnentation but the only reference material we had was a video of Rick Klau explaining how it worked for Google. As then Head of PMO for EF, I compiled reference training material from Google and Quora and every article I could find on the internet about OKRs. I'd then hold 1 on 1 Q&A sessions with the SVP of Product so as I can form a base FAQ of our version of OKRs. Each time a staff would raise questions not covered in the FAQ, I'd raise it to upper management and get an answer included in a new revision. I also highlighted the importance of a having a quarterly all hands meeting where we celebrate our OKR scores as a company."
+        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization. Upper management had the ambition of company-wide implemnentation but the only reference material we had was a video of Rick Klau explaining how it worked for Google. As then Head of PMO for EF, I compiled reference training material from Google and Quora and every article I could find on the internet about OKRs. I'd then hold 1 on 1 Q&A sessions with the SVP of Product so as I can form a base FAQ of our version of OKRs. Each time a staff would raise questions not covered in the FAQ, I'd raise it to upper management and get an answer included in a new revision. I also highlighted the importance of a having a quarterly all hands meeting where we celebrate our OKR scores as a company."
       ]
     },
     {
       "company": "MyCube",
-      "position": "Project Manager",
+      "position": "Product Manager",
       "website": "",
       "startDate": "2009-05-01",
       "endDate": "2012-01-15",
@@ -51,7 +51,7 @@
       "website": "",
       "startDate": "2009-01-01",
       "endDate": "2009-05-30",
-      "summary": "Laron Pte Ltd., is an expert IT consultant company specialized in on-line gaming. After five months of working for Laron, being a contractor for hire at Mycube, Mycube decided to buy Laron and it's entire team.",
+      "summary": "Laron Pte Ltd., is an expert IT consultant company specialized in online gaming. After five months of working for Laron, being a contractor for hire at Mycube, Mycube decided to buy Laron and it's entire team.",
       "highlights": [
         "Implemented documentation standards.",
         "Headed cross functional teams while managing projects for an IT consulting company that specialized in online gaming. "
@@ -99,8 +99,8 @@
   "education": [
     {
       "institution": "University of South Australia",
-      "area": "MBA (undergraduate)",
-      "studyType": "",
+      "area": "MBA",
+      "studyType": "ongoing",
       "startDate": "2009-01-01",
       "endDate": "2012-01-01",
       "gpa": "",
@@ -109,7 +109,7 @@
     {
       "institution": "University of the Philippines Los Banos",
       "area": "Communication Arts",
-      "studyType": "",
+      "studyType": "undergraduate",
       "startDate": "1997-01-01",
       "endDate": "2000-01-01",
       "gpa": "",
