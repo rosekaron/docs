@@ -120,18 +120,23 @@
   "publications": [],
   "skills": [
     {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "requirements gathering and authoring",
-        "impact analysis",
-        "agile methodologies",
-        "cross team leadership and collaboration"
-      ]
+      "name": "requirements gathering and authoring",
+      "level": "high",
+      "keywords": []
     },
     {
-      "name": "",
-      "level": "",
+      "name": "impact analysis",
+      "level": "high",
+      "keywords": []
+    },
+    {
+      "name": "agile methodologies",
+      "level": "high",
+      "keywords": []
+    },
+    {
+      "name": "cross team leadership and collaboration",
+      "level": "high",
       "keywords": []
     }
   ],
