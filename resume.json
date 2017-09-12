@@ -6,7 +6,7 @@
     "email": "rose@karon.se",
     "phone": "+46 764076119",
     "website": "",
-    "summary": "Nothing makes me happier than to see a business idea come to life. For more than 15 years, I've worked in four different countries (Philippines, Singapore, China, Sweden), gathering business requirements and transforming them to powerful systems/ solutions in complex industries (gaming, e-learning, social networking and travel education).   I am empathetic and I love people, a combination that helps me bridge business and technology easily. I'm an advocate of the use of agile methodologies which ensures that all my projects, big and small reach a demo-able state, open to feedback and are meeting business needs. I currently work as a freelance Business Analyst/ Product Manager for SchoolApply, a platform that connects and recruits students to international education institutions. At SchoolApply, I am responsible for the design and delivery of a data management platform that is being developed using a remote development team.  As a Technical Project Manager at EF Kids and Teens, I partnered with Product and Content development and led a team of engineers in the digital transformation of one of the key products of the company.   As Product Manager at MyCube - a privacy focused social exchange, I was responsible for authoring the initial specifications for the web experience as well as specifying and designing the mobile experience.   As a Business Systems Analyst for Strategem Technologies - an online gaming outfit, I was part of a team responsible for translating high level business requirements into detailed specifications. During my tenure, I had the privilege of being involved in building a robust marketing back office tool and promoter program that was used for managing all of Mansion.com's campaigns.",
+    "summary": "Nothing makes me happier than to see a business idea come to life. For more than 15 years, I've worked in four different countries (Philippines, Singapore, China, Sweden), gathering business requirements and transforming them to powerful systems/ solutions in complex industries (gaming, e-learning, social networking and travel education).   I am empathetic and I love people, a combination that helps me bridge business and technology easily. I'm an advocate of the use of agile methodologies which ensures that all my projects, big and small reach a demo-able state, open to feedback and are meeting business needs.",
     "location": {
       "address": "Tantogatan 31",
       "postalCode": "11842",
@@ -22,7 +22,6 @@
       "position": "Freelance Business Analyst/ Product Manager",
       "website": "https://www.schoolapply.com/ ",
       "startDate": "2017-07-10",
-      "endDate": "present",
       "summary": "SchoolApply help students from anywhere in the world connect with schools that best match their needs and potential.",
       "highlights": [
         "Designed and documented a platform that helps content managers manage school data. ",
@@ -35,7 +34,6 @@
       "position": "Co-founder",
       "website": "",
       "startDate": "2016-02-01",
-      "endDate": "present",
       "summary": "SWK Industries is a software development start up that specializes in building platforms for the event technology industry",
       "highlights": [
         "Managed a team of remote engineers. ",
