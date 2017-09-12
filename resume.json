@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Rose Karon",
-    "label": "Technical Project Manager / Business Analyst",
+    "label": "Senior Business Analyst (gaming, edtech, social networking, event tech)",
     "picture": "https://avatars1.githubusercontent.com/u/780526?v=3&s=460",
     "email": "rose@karon.se",
-    "phone": "+34 603 651 949",
+    "phone": "+46 764076119",
     "website": "",
-    "summary": "I am a detail oriented, hard-working Technical Project Manager/ Business Analyst who just moved to Europe. I offer a total of over 15 years of experience in software development in the fields of online gaming and e-learning. I've worked for both start-ups and large companies in three different countries (Philippines, Singapore and China). My unique background and experience as well as my can-do attitude allows me to easily integrate into any team. I am naturally curious and it helps in effortlessly learning new systems. I am cheerful, energetic and warm-- traits that my mentors and peers said are welcomed in the logical world of engineering. I am currently a permanent resident of Sweden but I am willing to relocate anywhere in the world for a good opportunity.",
+    "summary": "Nothing makes me happier than to see a business idea come to life. For more than 15 years, I've worked in four different countries (Philippines, Singapore, China, Sweden), gathering business requirements and transforming them to powerful systems/ solutions in complex industries (gaming, e-learning, social networking and travel education).   I am empathetic and I love people, a combination that helps me bridge business and technology easily. I'm an advocate of the use of agile methodologies which ensures that all my projects, big and small reach a demo-able state, open to feedback and are meeting business needs.",
     "location": {
-      "address": "Lövstastigen 16",
-      "postalCode": "14132",
+      "address": "Tantogatan 31",
+      "postalCode": "11842",
       "city": "Stockholm",
       "countryCode": "Sweden",
       "region": ""
@@ -18,18 +18,53 @@
   },
   "work": [
     {
+      "company": "SchoolApply ",
+      "position": "Freelance Business Analyst/ Product Manager",
+      "website": "https://www.schoolapply.com/ ",
+      "startDate": "2017-07-10",
+      "summary": "SchoolApply help students from anywhere in the world connect with schools that best match their needs and potential.",
+      "highlights": [
+        "Designed and documented a platform that helps content managers manage school data. ",
+        "Managed a remote team of engineers. ",
+        "Responsible for delivering the business requirements specifications for an agency system. "
+      ]
+    },
+    {
+      "company": "SWK Industries ",
+      "position": "Co-founder",
+      "website": "",
+      "startDate": "2016-02-01",
+      "summary": "SWK Industries is a software development start up that specializes in building platforms for the event technology industry",
+      "highlights": [
+        "Managed a team of remote engineers. ",
+        "Authored business specifications for a ticketing system for the event tech industry",
+        "Authored business specifications for a en event management platform. "
+      ]
+    },
+    {
+      "company": "EF Kids and Teens ",
+      "position": "Technical Project Manager",
+      "website": "http://www.ef.com/",
+      "startDate": "2015-05-01",
+      "endDate": "2015-12-01",
+      "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
+      "highlights": [
+        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
+        "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
+        "Led the adoption of OKRs (Objectives and Key Results) as a company-wide goal setting tool"
+      ]
+    },
+    {
       "company": "EF Learning Labs (Shanghai, China)",
       "position": "Technical Project Manager / Head of PMO",
       "website": "http://www.ef.com/",
       "startDate": "2012-02-01",
-      "endDate": "2015-12-01",
+      "endDate": "2015-04-30",
       "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
       "highlights": [
         "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
-        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
         "Collaborated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. What I started set the stage for a better working relationship between us and our stakeholders and I am proud to say that it is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization."
+        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs which resulted to better alignment and transparency within the organization."
       ]
     },
     {
@@ -120,18 +155,23 @@
   "publications": [],
   "skills": [
     {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "requirements gathering and authoring",
-        "impact analysis",
-        "agile methodologies",
-        "cross team leadership and collaboration"
-      ]
+      "name": "requirements gathering and authoring",
+      "level": "high",
+      "keywords": []
     },
     {
-      "name": "",
-      "level": "",
+      "name": "impact analysis",
+      "level": "high",
+      "keywords": []
+    },
+    {
+      "name": "agile methodologies",
+      "level": "high",
+      "keywords": []
+    },
+    {
+      "name": "cross team leadership and collaboration",
+      "level": "high",
       "keywords": []
     }
   ],
@@ -145,8 +185,7 @@
       "fluency": "Intermediate"
     }
   ],
-  "interests": [
-  ],
+  "interests": [],
   "references": [
     {
       "name": "Rasmus Rasmusson, VP of Marketing",
