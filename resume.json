@@ -18,18 +18,42 @@
   },
   "work": [
     {
-      "company": "EF Learning Labs (Shanghai, China)",
-      "position": "Technical Project Manager / Head of PMO",
+      "company": "SchoolApply ",
+      "position": "Freelance Business Analyst/ Product Manager",
+      "website": "https://www.schoolapply.com/ ",
+      "startDate": "2017-07-10",
+      "endDate": "present",
+      "summary": "SchoolApply help students from anywhere in the world connect with schools that best match their needs and potential.",
+      "highlights": [
+        "Designed and documented a platform that helps content managers manage school data. ",
+        "Managed a remote team of engineers. ",
+        "Responsible for delivering the business requirements specifications for an agency system. "
+      ]
+    },
+    {
+      "company": "SWK Industries ",
+      "position": "Co-founder",
+      "website": "",
+      "startDate": "2016-02-01",
+      "endDate": "present",
+      "summary": "SWK Industries is a software development start up that specializes in building platforms for the event technology industry",
+      "highlights": [
+        "Managed a team of remote engineers. ",
+        "Authored business specifications for a ticketing system for the event tech industry",
+        "Authored business specifications for a en event management platform. "
+      ]
+    },
+    {
+      "company": "EF Kids and Teens ",
+      "position": "Technical Project Manager",
       "website": "http://www.ef.com/",
-      "startDate": "2012-02-01",
+      "startDate": "2015-05-01",
       "endDate": "2015-12-01",
       "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
       "highlights": [
-        "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
         "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
         "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
-        "Collaborated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. What I started set the stage for a better working relationship between us and our stakeholders and I am proud to say that it is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization."
+        "Led the adoption of OKRs (Objectives and Key Results) as a company-wide goal setting tool"
       ]
     },
     {
@@ -37,44 +61,12 @@
       "position": "Technical Project Manager / Head of PMO",
       "website": "http://www.ef.com/",
       "startDate": "2012-02-01",
-      "endDate": "2015-12-01",
+      "endDate": "2015-04-30",
       "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
       "highlights": [
         "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
-        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
         "Collaborated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. What I started set the stage for a better working relationship between us and our stakeholders and I am proud to say that it is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization."
-      ]
-    },
-    {
-      "company": "EF Learning Labs (Shanghai, China)",
-      "position": "Technical Project Manager / Head of PMO",
-      "website": "http://www.ef.com/",
-      "startDate": "2012-02-01",
-      "endDate": "2015-12-01",
-      "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
-      "highlights": [
-        "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
-        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
-        "Collaborated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. What I started set the stage for a better working relationship between us and our stakeholders and I am proud to say that it is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization."
-      ]
-    },
-    {
-      "company": "EF Learning Labs (Shanghai, China)",
-      "position": "Technical Project Manager / Head of PMO",
-      "website": "http://www.ef.com/",
-      "startDate": "2012-02-01",
-      "endDate": "2015-12-01",
-      "summary": "EF is one of the largest educational institutions in the world with over 42,000 employees distributed in 112 different countries. Since 1988, EF has been partnering with the Olympics committee in providing language training for chosen host countries. It also partners with the Clinton foundation in awarding the Hult Prize, a global competition for young social entrepreneurs, typically themed after finding solutions to global problems. At EF, I was lucky to be given a unique opportunity to hand-pick my projects so during my three and a half years tenure, I was able to help five different teams.",
-      "highlights": [
-        "Led a team of engineers in launching the latest version of EF's language learning software to millions of users all over the world, including 1 million staff and volunteers in the current Rio 2016 olympics.",
-        "Led a team of engineers in creating a proof of concept for using AEM as a CMS platform for delivering dynamic content on the web and on mobile. AEM is commonly used for delivering static content but we extended its use which resulted to cost savings.",
-        "Initiated and led a team of engineers into building monitoring tools using the ELK (elasticsearch, logstash and kibana) stack. This reduced the turnaround time for fixing live bugs and even allowed us to proactively monitor our physical schools allowing us to solve issues before it got reported.",
-        "Collaborated with the SVP of Product and VP of User Experience into starting a bi-monthly Product Council. What I started set the stage for a better working relationship between us and our stakeholders and I am proud to say that it is still being actively adopted across the company today.",
-        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs/ EF's Kids and Teens. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs. This resulted to better alignment and transparency within the organization."
+        "Led the adoption of OKRs (Objectives and Key Results) as a goal setting tool for EF Labs. On top of championing the adoption of OKRs, I also convinced upper management about the importance of having a quarterly all hands meeting where we review and celebrate the scores of our OKRs which resulted to better alignment and transparency within the organization."
       ]
     },
     {
